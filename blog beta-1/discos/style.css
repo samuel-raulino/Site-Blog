@@ -1,0 +1,183 @@
+body{
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/850467574239066353/6B56E86D1F79E68C0050231125B6F3855B408C30/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false');
+    top:90%;
+    background-size:auto;
+}
+.barra{
+    position:relative;
+    top : 0px;
+    left:0px;
+    width:1000px;
+    height:30px
+}
+.barra__botoes{
+    position:relative;
+    left:100px;
+}
+.barra__img{
+    position:relative;
+    width:1000px;
+    height:30px
+}
+
+.barra__botao:hover {
+    background-color: #45a049; /* Cor de fundo ao passar o mouse */
+    border-color: #45a049; /* Cor da borda ao passar o mouse */
+}
+#all{
+    background-color:#070707;
+    position:relative;
+    color:white;
+    font-family:"Onyx";
+    top : 10px; 
+    left : 400px;
+    
+    
+    background-color:#070707;
+    width:1000px;
+    height:3000px;
+    border-color: white;
+    border:40px;
+    border-style: inherit;
+    
+}
+#dark_alert{
+    position:relative;
+    left:13%;
+}
+.post{
+    position:relative;
+    left:10%;
+}
+
+.post1{
+    position:relative;
+    top:-135px;
+    left:70%;
+}
+
+.header__titulo{
+    position:relative;
+    left:40%;
+}
+footer{
+    position:relative;
+    left:28%;
+}
+
+#euronymous{
+    position:relative;
+    left:20%;
+}
+
+
+/*botoes*/
+
+.barra__botoes__botao1{
+
+    position:relative;
+    background-color: #cccccc;
+    left:10px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao2{
+
+    position:relative;
+    background-color: #cccccc;
+    left:40px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao3{
+
+    position:relative;
+    background-color: #cccccc;
+    left:70px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao4{
+
+    position:relative;
+    background-color: #cccccc;
+    left:100px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao5{
+
+    position:relative;
+    background-color: #cccccc;
+    left:130px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao6{
+
+    position:relative;
+    background-color: #cccccc;
+    left:160px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao7{
+
+    position:relative;
+    background-color: #cccccc;
+    left:190px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao8{
+
+    position:relative;
+    background-color: #cccccc;
+    left:210px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao9{
+
+    position:relative;
+    background-color: #cccccc;
+    left:240px;
+    top:-27px;
+    border:0px;
+}
+.barra__botoes__botao1:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao2:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao3:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao4:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao5:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao6:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao7:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao8:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
+.barra__botoes__botao9:hover {
+    background-color: #686868; /* Cor de fundo ao passar o mouse */
+    border-color: #686868; /* Cor da borda ao passar o mouse */
+}
