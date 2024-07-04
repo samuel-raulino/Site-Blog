@@ -1,0 +1,11 @@
+body{
+    background-image: url('https://i.gifer.com/2kXk.gif');
+    top:90%;
+    background-size:auto;
+    position:absolute;
+}
+h1{
+    position: absolute;
+    color:white;
+    top:-500px;
+}
